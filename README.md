@@ -6,7 +6,6 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Utah Data Engineering Meetup](https://www.meetup.com/utah-data-engineering-meetup)
 - [Utah Microservices](https://www.meetup.com/utah-microservices)
 - [Utah PHP User Group](https://www.meetup.com/utah-php-user-group)
-- 
 
 ## Architecture
 
