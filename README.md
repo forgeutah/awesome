@@ -41,11 +41,16 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 #### Interesting Articles
 - [Wrap multiple errors](https://github.com/golang/go/issues/53435) - proposal: errors: add support for wrapping multiple errors
 - [Go dev survey 2022](https://go.dev/blog/survey2022-q2-results) - Results of 2022 Go Dev Survey
+- [Lite.fs](https://fly.io/blog/introducing-litefs/)
+
+### Python
+- [Red Engine](https://red-engine.readthedocs.io/en/latest/) - Modern Scheduling Framework
 
 ### Javascript
 - [SingleSPA](https://single-spa.js.org/) - A javascript router for front-end microservices
 
-
+## BizDev
+- [BudiBase](https://budibase.com/) - Open source alternative to Bubble
 
 ## Homelab
 
