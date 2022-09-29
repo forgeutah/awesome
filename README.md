@@ -2,6 +2,8 @@
 These are awesome things found or discussed or relating to ForgeUtah. Add a PullRequest to add anything you want. 
 
 ## Meetups
+- [Utah Go User Group](https://www.meetup.com/utahgophers/)
+- [Utah Machine Learning](https://www.meetup.com/machine-learning-utah/)
 - [Python at the Point](https://meetup.com/pythonatthepoint)
 - [Utah Data Engineering Meetup](https://www.meetup.com/utah-data-engineering-meetup)
 - [Utah Microservices](https://www.meetup.com/utah-microservices)
