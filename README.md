@@ -21,7 +21,8 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Streampipe.io](https://steampipe.io/)
 - [Resoto](https://resoto.com)
 - [cloudquery.io](https://www.cloudquery.io/)
-- [k9s](https://k9scli.io/)
+- [k9s](https://k9scli.io/) - Interactive k8s management cli
+- [Contellation](https://docs.edgeless.systems/constellation/) - Sheilded K8s cluster, encrypted everything, even runtime memory
 
 #### IAC (Infrastructure as Code)
 - [Terraform](https://www.terraform.io/)
