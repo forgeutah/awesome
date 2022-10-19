@@ -39,7 +39,13 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [FGTrace](https://github.com/felixge/fgtrace) - experimental profiler/tracer
 - [GoJQ](https://github.com/itchyny/gojq) - A pure go implementation of JQ
 - [Scan](https://github.com/wroge/scan) - Scan SQL rows into any type powered by generics
-- [Zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch 
+- [Zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch
+- [wazero](https://github.com/tetratelabs/wazero) - zero dependency WebAssembly runtime for Go
+
+#### Logging
+- [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+- [catalyst logging](https://github.com/catalystsquad/app-utils-go/blob/main/logging/logging.go) - wrapped zerolog, logrus
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 
 #### Interesting Articles
 - [Wrap multiple errors](https://github.com/golang/go/issues/53435) - proposal: errors: add support for wrapping multiple errors
