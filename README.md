@@ -10,7 +10,6 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Utah PHP User Group](https://www.meetup.com/utah-php-user-group)
 
 ## Architecture
-
 - [SmallProx](https://github.com/nhumrich/small-prox) - Small reverse proxy, friggen great one too.
 
 ### Feature Flags
@@ -19,6 +18,11 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service
 
 ## Infrastructure
+
+
+### Local Development
+- [mirrord](https://mirrord.dev/) - run local processes in the context of their cloud environment
+- [tilt](https://tilt.dev/) - A toolkit for fixing the pains of microservice development.
 
 ### Kubernetes
 - [Streampipe.io](https://steampipe.io/)
@@ -31,8 +35,10 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Terraform](https://www.terraform.io/)
 - [Pulumi](https://www.pulumi.com)
 
-## Programming Languages
+#### Services as a Service
+- [Novu](https://novu.co/) - Open Source Notification Infrastructure
 
+## Programming Languages
 
 ### Golang
 - [Pretty Printer](https://github.com/sanity-io/litter)
