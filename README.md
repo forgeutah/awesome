@@ -30,6 +30,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [cloudquery.io](https://www.cloudquery.io/)
 - [k9s](https://k9scli.io/) - Interactive k8s management cli
 - [Contellation](https://docs.edgeless.systems/constellation/) - Sheilded K8s cluster, encrypted everything, even runtime memory
+- [Composable](https://github.com/composable-operator/composable) - reference framework to Kubernetes object
 
 #### IAC (Infrastructure as Code)
 - [Terraform](https://www.terraform.io/)
