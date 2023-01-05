@@ -11,6 +11,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 
 ## Architecture
 - [SmallProx](https://github.com/nhumrich/small-prox) - Small reverse proxy, friggen great one too.
+- [Doppler](https://www.doppler.com/) - SecretOps Platform
 
 ### Feature Flags
 - [Launch Darkly](https://launchdarkly.com/)
@@ -62,6 +63,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 
 ### Python
 - [Red Engine](https://red-engine.readthedocs.io/en/latest/) - Modern Scheduling Framework
+- [VCR.py](https://vcrpy.readthedocs.io/en/latest/) - Replay http requests
 
 ### Javascript
 - [SingleSPA](https://single-spa.js.org/) - A javascript router for front-end microservices
