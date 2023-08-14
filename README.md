@@ -17,6 +17,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Launch Darkly](https://launchdarkly.com/)
 - [Toggle Meister](https://github.com/nhumrich/toggle-meister) - Opensource feature toggle service
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service
+- [Flipt](https://www.flipt.io/) - Open source Feature Flags
 
 ## Infrastructure
 
