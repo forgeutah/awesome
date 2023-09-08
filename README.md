@@ -21,15 +21,16 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 
 ## Infrastructure
 
+### Other
+- [Streampipe.io](https://steampipe.io/) - Query infrastructure/cloud like it is SQL `select * from cloud`
+- [Resoto](https://resoto.com) - Infrastructure resource monitoring
+- [cloudquery.io](https://www.cloudquery.io/) - high performance data integration platform built for developers.
 
 ### Local Development
 - [mirrord](https://mirrord.dev/) - run local processes in the context of their cloud environment
 - [tilt](https://tilt.dev/) - A toolkit for fixing the pains of microservice development.
 
 ### Kubernetes
-- [Streampipe.io](https://steampipe.io/)
-- [Resoto](https://resoto.com)
-- [cloudquery.io](https://www.cloudquery.io/)
 - [k9s](https://k9scli.io/) - Interactive k8s management cli
 - [Contellation](https://docs.edgeless.systems/constellation/) - Sheilded K8s cluster, encrypted everything, even runtime memory
 - [Composable](https://github.com/composable-operator/composable) - reference framework to Kubernetes object
