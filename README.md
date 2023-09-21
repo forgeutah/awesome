@@ -53,6 +53,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [Scan](https://github.com/wroge/scan) - Scan SQL rows into any type powered by generics
 - [Zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch
 - [wazero](https://github.com/tetratelabs/wazero) - zero dependency WebAssembly runtime for Go
+- [Failsafe](https://github.com/failsafe-go/failsafe-go) - Fault tolerance and resilience patterns for Go
 
 #### Logging
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
