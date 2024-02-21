@@ -30,6 +30,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 ### Local Development
 - [mirrord](https://mirrord.dev/) - run local processes in the context of their cloud environment
 - [tilt](https://tilt.dev/) - A toolkit for fixing the pains of microservice development.
+- [nix](https://nixos.org/) - An isolated dev environment, and/or operating system.
 
 ### Kubernetes
 - [k9s](https://k9scli.io/) - Interactive k8s management cli
@@ -69,6 +70,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 ### Python
 - [Red Engine](https://red-engine.readthedocs.io/en/latest/) - Modern Scheduling Framework
 - [VCR.py](https://vcrpy.readthedocs.io/en/latest/) - Replay http requests
+- [uv](https://astral.sh/blog/uv) - blazing fast package manager written in rust
 
 ### Javascript
 - [SingleSPA](https://single-spa.js.org/) - A javascript router for front-end microservices
@@ -78,6 +80,12 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 
 ## Testing
 - [Maestro](https://github.com/mobile-dev-inc/maestro) - End to end tests
+
+## Shell
+- [Zero.sh](https://github.com/zero-sh/zero.sh) - Local dev repo management
+- [gnu stow](https://youtu.be/y6XCebnB9gs?si=amCO6UBXM0L8vE8B) - video showing Gnu Stow
+- [eza](https://github.com/eza-community/eza) - ls alternative
+- [zoxide](https://youtu.be/aghxkpyRVDY?si=JMPfD0E5nIf4pGwg) - cd alternative
 
 ## Homelab
 
