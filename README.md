@@ -86,6 +86,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 - [gnu stow](https://youtu.be/y6XCebnB9gs?si=amCO6UBXM0L8vE8B) - video showing Gnu Stow
 - [eza](https://github.com/eza-community/eza) - ls alternative
 - [zoxide](https://youtu.be/aghxkpyRVDY?si=JMPfD0E5nIf4pGwg) - cd alternative
+- [Taskfile](https://taskfile.dev/) - make alternative
 
 ## Homelab
 
