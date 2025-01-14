@@ -24,7 +24,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 ## Infrastructure
 
 ### Other
-- [Streampipe.io](https://steampipe.io/) - Query infrastructure/cloud like it is SQL `select * from cloud`
+- [Steampipe.io](https://steampipe.io/) - Query infrastructure/cloud like it is SQL `select * from cloud`
 - [Resoto](https://resoto.com) - Infrastructure resource monitoring
 - [cloudquery.io](https://www.cloudquery.io/) - high performance data integration platform built for developers.
 
@@ -36,7 +36,7 @@ These are awesome things found or discussed or relating to ForgeUtah. Add a Pull
 
 ### Kubernetes
 - [k9s](https://k9scli.io/) - Interactive k8s management cli
-- [Contellation](https://docs.edgeless.systems/constellation/) - Sheilded K8s cluster, encrypted everything, even runtime memory
+- [Constellation](https://docs.edgeless.systems/constellation/) - Sheilded K8s cluster, encrypted everything, even runtime memory
 - [Composable](https://github.com/composable-operator/composable) - reference framework to Kubernetes object
 - [Karpenter](https://karpenter.sh/) - Just in time nodes for K8s scheduling
 
